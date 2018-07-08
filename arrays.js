@@ -31,6 +31,6 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
 }
 
 function removeElementFromBeginningOfArray(array){
-  var newArray=[1,2,3]
-  return newArray.slice(0);
+  var Array=[1,2,3]
+  return Array.slice(0);
 }
